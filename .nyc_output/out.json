@@ -1,6 +1,6 @@
 {
-  "C:\\Users\\ferso\\OneDrive\\Documentos\\sonar-test\\src\\App.js": {
-    "path": "C:\\Users\\ferso\\OneDrive\\Documentos\\sonar-test\\src\\App.js",
+  "C:\\Users\\ferso\\OneDrive\\Documentos\\sonar_test\\src\\App.js": {
+    "path": "C:\\Users\\ferso\\OneDrive\\Documentos\\sonar_test\\src\\App.js",
     "statementMap": {
       "0": {
         "start": {
@@ -50,8 +50,8 @@
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
     "hash": "9c27163691e5ea06e5512d7140937276593822e7"
   },
-  "C:\\Users\\ferso\\OneDrive\\Documentos\\sonar-test\\src\\reportWebVitals.js": {
-    "path": "C:\\Users\\ferso\\OneDrive\\Documentos\\sonar-test\\src\\reportWebVitals.js",
+  "C:\\Users\\ferso\\OneDrive\\Documentos\\sonar_test\\src\\reportWebVitals.js": {
+    "path": "C:\\Users\\ferso\\OneDrive\\Documentos\\sonar_test\\src\\reportWebVitals.js",
     "statementMap": {
       "0": {
         "start": {
@@ -285,8 +285,8 @@
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
     "hash": "17153974ae3c4bca97fa303bb8c9d392bd606655"
   },
-  "C:\\Users\\ferso\\OneDrive\\Documentos\\sonar-test\\src\\index.js": {
-    "path": "C:\\Users\\ferso\\OneDrive\\Documentos\\sonar-test\\src\\index.js",
+  "C:\\Users\\ferso\\OneDrive\\Documentos\\sonar_test\\src\\index.js": {
+    "path": "C:\\Users\\ferso\\OneDrive\\Documentos\\sonar_test\\src\\index.js",
     "statementMap": {
       "0": {
         "start": {
